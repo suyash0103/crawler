@@ -1,10 +1,2172 @@
 {
-  "visited" : [ "https://www.google.com" ],
-  "pagesCrawled" : 0,
-  "totalTimeInSeconds" : 0,
-  "inlinksForTopDomainsFromURLS" : { },
-  "inlinksForHostsFromURLs" : { },
-  "inlinksForTopDomainsFromHosts" : { },
-  "inlinksForHostsFromHosts" : { },
-  "outlinksForDomain" : { }
+  "visited" : [ "https://www.facebook.com/pages/create/?ref_type=registration_form", "https://www.nytimes.com/section/us", "https://www.nytimes.com/2025/06/21/nyregion/nathan-silver-dead.html", "https://messenger.com/", "https://www.facebook.com/watch/", "https://www.nytimes.com/2024/05/24/well/live/excessive-heat-wave-weather-health.html", "https://www.nytimes.com/subscription/groups?Pardot_Campaign_Code_Form_Input=89FQX", "https://www.youtube.com/?tab=i1", "https://www.wsj.com/", "https://www.nytimes.com/ca/", "https://www.nytimes.com/section/books/review", "https://www.google.com/services/", "https://www.facebook.com/policies/cookies/", "https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ==", "https://l.facebook.com/l.php?u=https://www.instagram.com/&h=AT1OeGL6GuTunW9eRnf4mTujQBdvZsVEa91hzBnI7dhvWkDowDZRdpfwDqkhqpW5HHWpjbt5Xtk55bGPA_y2pXQy7XakDOEoa0DBhE1bOB9RxUmbNpL-Vh8ulZrdgl6aW3JGIJ1GHNdhA3a_", "https://www.nytimes.com/interactive/2023/world/global-heat-map-tracker.html", "https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer", "https://www.nytimes.com/interactive/2022/us/heat-wave-map-tracker.html", "https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzUwNTU2NTM0LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ==&ars=facebook_login&next", "https://es-la.facebook.com/", "https://www.facebook.com/policies?ref=pf", "https://www.nytimes.com/section/arts/music", "https://www.nytimes.com/trending/", "https://www.google.com/intl/en/about.html", "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ", "https://store.nytimes.com/", "https://developers.facebook.com/?ref=pf", "https://www.nytimes.com/section/fashion", "https://www.nytimes.com/interactive/2025/06/20/upshot/flashback.html", "https://www.nytimes.com/section/corrections", "https://www.nytimes.com/2025/06/19/opinion/k-drama-birthrate-crisis.html", "https://www.nytimes.com/section/business", "https://www.nytimes.com/books/best-sellers/", "https://www.nytimes.com/section/opinion/letters", "https://www.facebook.com/careers/?ref=pf", "https://www.youtube.com/?tab=w1", "https://www.facebook.com/lite/", "https://www.nytimes.com/es/", "http://www.nytimes.com/crosswords/game/mini", "https://www.nytimes.com/crosswords", "http://www.google.com/history/optout?hl=en", "https://www.nytimes.com/interactive/2025/05/25/us/politics/trump-politics-democrats.html", "https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer", "https://www.nytimes.com/interactive/2023/08/10/well/live/heat-body-dehydration-health.html", "https://www.nytimes.com/section/opinion/editorials", "https://www.nytimes.com/section/todayspaper", "https://pt-br.facebook.com/", "https://www.nytimes.com/2025/06/21/nyregion/mahmoud-khalil-immigration-crackdown.html", "https://maps.google.com/maps?hl=en&tab=il", "https://www.facebook.com/settings", "https://play.google.com/?hl=en&tab=i8", "https://cooking.nytimes.com/", "https://www.nytimes.com/section/headway", "https://www.nytimes.com/2025/06/21/nyregion/mahmoud-khalil-return-to-new-york.html", "https://www.google.com/intl/en/about/products?tab=wh", "https://www.nytimes.com/", "https://www.nytimes.com/2025/06/21/nyregion/lander-cuomo-women-mayor.html", "https://www.google.com/advanced_search?hl=en&authuser=0", "https://www.nytimes.com/interactive/2025/06/18/upshot/jaws-at-50.html", "https://www.nytimes.com/2025/06/21/world/canada/medical-helicopter-crash-canada.html", "https://www.nytimes.com/section/opinion/contributors", "https://www.google.com/preferences?hl=en", "https://www.nytimes.com/interactive/2025/06/20/briefing/trump-israel-iran-stanley-cup-news-quiz.html", "https://it-it.facebook.com/", "https://www.nytimes.com/interactive/polls/nyc-mayoral-primary-election-polls-2025.html", "https://www.nytimes.com/series/opinion-audio", "https://www.nytimes.com/section/learning", "https://www.nytimes.com/interactive/2025/nyregion/nyc-mayor-candidates-2025.html", "https://www.nytimes.com/2025/06/21/opinion/waste-musk-trump.html", "https://www.facebook.com/help/568137493302217", "https://www.nytimes.com/section/education", "https://www.nytimes.com/section/movies", "https://www.nytimes.com/spotlight/pop-culture", "https://fr-fr.facebook.com/", "https://www.nytimes.com/section/t-magazine", "https://www.meta.com/smart-glasses/", "https://www.nytimes.com/2025/06/14/nyregion/early-voting-nyc-mayor-election.html", "https://www.nytimes.com/section/sports", "https://www.nytimes.com/section/travel", "https://www.meta.ai/", "https://timesmachine.nytimes.com/browser", "https://www.nytimes.com/section/well", "https://www.nytimes.com/section/magazine", "https://www.nytimes.com/article/house-gop-tax-bill-trump.html", "https://www.nytimes.com/2025/06/21/world/asia/south-korea-kpop-culture.html", "https://www.nytimes.com/2025/06/21/world/asia/bts-kpop.html", "https://play.google.com/?hl=en&tab=w8", "https://www.nytco.com/careers/", "https://www.nytimes.com/section/food", "https://www.nytimes.com/section/reader-center", "https://www.nytimes.com/section/style", "https://www.nytimes.com/section/jobs", "https://www.google.com/intl/en/about/products?tab=ih", "https://ko-kr.facebook.com/", "https://www.nytimes.com/games/strands", "https://mail.google.com/mail/?tab=wm", "https://www.nytimes.com/2025/06/21/us/white-supremacist-university-of-florida-paper.html", "https://www.facebook.com/login/", "https://www.nytimes.com/2025/06/21/us/heat-wave-midwest-central-us.html", "https://www.nytimes.com/subscription", "https://www.nytimes.com/games/connections?GAMES_connectionsRollout_1130=1_ConnectionsV2", "https://www.nytimes.com/tips", "https://www.nytimes.com/international/", "https://www.nytimes.com/account", "https://www.nytimes.com/2025/06/21/weather/windy-conditions-fan-wildfires-in-the-west.html", "https://www.nytimes.com/spotlight/the-great-read", "https://www.nytimes.com/gift-articles", "https://www.nytimes.com/2025/05/25/us/politics/trump-money-plane-crypto.html", "https://www.nytimes.com/athletic/connections-sports-edition", "https://www.nytimes.com/gift", "https://www.nytimes.com/column/op-docs", "https://www.nytimes.com/video", "https://www.nytimes.com/spotlight/nytimesineducation", "https://www.google.com/intl/en/policies/privacy/", "https://www.tbrandstudio.com/", "https://news.google.com/?tab=wn", "https://www.google.com/intl/en/ads/", "https://hi-in.facebook.com/", "https://mail.google.com/mail/?tab=im", "https://www.nytimes.com/2025/06/21/weather/tornadoes-deaths-north-dakota-minnesota.html", "https://www.facebook.com/pages/create/?ref_type=site_footer", "https://www.threads.com/", "https://www.google.com", "https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto", "https://www.nytimes.com/section/theater", "https://www.nytimes.com/section/world", "https://www.nytimes.com/2025/06/21/magazine/trump-los-angeles-immigration.html", "https://www.nytimes.com/2025/06/21/magazine/andrew-schulz-interview.html", "https://www.nytimes.com/section/obituaries", "https://www.nytimes.com/games/wordle/index.html", "https://www.nytimes.com/newsletters", "https://www.nytimes.com/section/politics", "https://www.meta.com/quest/", "https://about.meta.com/technologies/meta-pay", "https://www.nytimes.com/section/health", "https://www.nytimes.com/puzzles/spelling-bee", "https://www.nytimes.com/spotlight/nyt-events", "https://www.nytimes.com/section/realestate", "https://www.nytimes.com/live/2025/06/21/world/iran-israel-trump", "https://nytlicensing.com/", "https://cn.nytimes.com", "https://www.nytimes.com/2025/06/21/science/jaws-sharks-research.html", "https://www.google.com/imghp?hl=en&tab=wi", "https://news.google.com/?tab=in", "https://www.nytimes.com/interactive/2025/05/06/nyregion/nyc-mayoral-election-2025-ranked-choice-voting.html", "https://www.nytimes.com/news-event/nyc-mayor-race", "https://www.nytimes.com/2025/06/21/opinion/israel-iran-attack-nuclear-pre-emptive-strike.html", "https://www.nytimes.com/section/arts/design", "https://zh-cn.facebook.com/", "https://www.nytimes.com/spotlight/podcasts", "https://nytedu.com/", "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/imghp?hl=en&tab=wi&ec=GAZAAg", "https://www.facebook.com/help/?ref=pf", "https://www.nytimes.com/wirecutter/", "https://www.nytimes.com/section/nyregion", "https://www.nytco.com/", "https://www.meta.com/", "https://www.nytimes.com/2025/06/21/business/walmart-rebrand-headquarters.html", "https://www.nytimes.com/reviews/dining", "https://www.nytimes.com/section/opinion", "https://de-de.facebook.com/", "https://www.nytimes.com/2025/06/21/business/cannes-social-media-influencers.html", "https://www.nytimes.com/2025/06/12/world/middleeast/israel-iran-strikes.html", "https://www.nytimes.com/2025/06/13/nyregion/de-blasio-cuomo-nyc-mayor.html", "https://www.nytimes.com/spotlight/graphics", "https://www.facebook.com/r.php?entry_point=login", "https://www.nytimes.com/section/arts/television", "https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-The-New-York-Times", "https://www.nytimes.com/2025/06/21/well/new-weight-loss-drugs.html", "https://www.nytimes.com/2025/06/21/us/politics/senate-snap-food-stamps.html", "https://ar-ar.facebook.com/", "https://nytimes.pressreader.com/", "https://about.meta.com/", "https://www.nytimes.com/section/fashion/weddings", "https://www.nytimes.com/section/opinion/columnists", "https://drive.google.com/?tab=io", "https://www.google.com/intl/en/policies/terms/", "https://maps.google.com/maps?hl=en&tab=wl", "https://www.facebook.com/", "https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu", "https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html", "https://www.nytimes.com/athletic/", "https://www.nytimes.com/section/arts/dance", "https://www.nytimes.com/section/technology", "https://www.nytimes.com/section/science", "https://www.nytimes.com/subscription/home-delivery", "https://www.google.com/webhp?tab=iw", "https://www.facebook.com/reg/", "https://www.nytimes.com/2025/06/21/business/job-corps-trump-trade-schools.html", "https://drive.google.com/?tab=wo", "https://www.facebook.com/help/637205020878504", "https://www.facebook.com/privacy/policies/health/?entry_point=facebook_page_footer", "https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility", "https://www.nytimes.com/2025/06/18/opinion/parents-smartphones-tiktok-facebook.html", "https://advertising.nytimes.com/", "https://cooking.nytimes.com", "https://www.nytimes.com/section/weather", "https://www.nytimes.com/section/opinion/sunday", "https://www.nytimes.com/athletic/6441339/2025/06/21/pacers-defense-thunder-nba-finals-game-7/", "https://www.nytimes.com/spotlight/visual-investigations", "https://www.google.com/advanced_image_search?hl=en&authuser=0", "https://www.nytimes.com/spotlight/opinion-video", "https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-Notice" ],
+  "pagesCrawled" : 200,
+  "totalTimeInSeconds" : 25,
+  "inlinksForTopDomainsFromURLS" : {
+    "dol.gov" : 1,
+    "lastmilehealth.org" : 1,
+    "nytco.com" : 112,
+    "census.gov" : 2,
+    "ai.google" : 3,
+    "tensorflow.org" : 2,
+    "deepmind.google" : 3,
+    "research.google" : 3,
+    "abc.xyz" : 3,
+    "nytlicensing.com" : 45,
+    "meta.com" : 24,
+    "ufl.edu" : 1,
+    "guttmacher.org" : 1,
+    "theatlantic.com" : 2,
+    "koreaherald.com" : 1,
+    "t.co" : 1,
+    "facebook.com" : 59,
+    "amazon.com" : 2,
+    "results.org" : 1,
+    "tv.google" : 2,
+    "yahoo.com" : 1,
+    "kff.org" : 1,
+    "opera.com" : 1,
+    "talentnet.community" : 1,
+    "blogger.com" : 2,
+    "transparency.google" : 3,
+    "google.com" : 34,
+    "gf.org" : 1,
+    "bookshop.org" : 1,
+    "rogerebert.com" : 1,
+    "anxiousgeneration.com" : 1,
+    "anrdoezrs.net" : 1,
+    "forbes.com" : 1,
+    "state.gov" : 1,
+    "zendesk.com" : 2,
+    "flutter.dev" : 2,
+    "whatsapp.com" : 5,
+    "eia.gov" : 1,
+    "applebooks.apple" : 1,
+    "waze.com" : 2,
+    "documentcloud.org" : 1,
+    "thinkwithgoogle.com" : 1,
+    "sustainability.google" : 3,
+    "icrc.org" : 1,
+    "reliefweb.int" : 1,
+    "blog.google" : 4,
+    "proimpact.tools" : 1,
+    "af.mil" : 1,
+    "crisisresponse.google" : 3,
+    "meta.ai" : 18,
+    "cityandstateny.com" : 1,
+    "noaa.gov" : 1,
+    "cgdev.org" : 1,
+    "nytimes.com" : 126,
+    "built-in.google" : 2,
+    "house.gov" : 2,
+    "tallahassee.com" : 1,
+    "android.com" : 4,
+    "reuters.com" : 1,
+    "greenhouse.io" : 2,
+    "lemonde.fr" : 1,
+    "newlinesinstitute.org" : 1,
+    "walmart.com" : 1,
+    "pbs.org" : 1,
+    "90daykorean.com" : 1,
+    "metacareers.com" : 1,
+    "awstrack.me" : 1,
+    "lens.google" : 2,
+    "legacy.com" : 1,
+    "tbrandstudio.com" : 103,
+    "theharrispoll.com" : 1,
+    "twitter.com" : 17,
+    "nationalbook.org" : 1,
+    "almayadeen.net" : 1,
+    "uselectionatlas.org" : 1,
+    "linkedin.com" : 2,
+    "airtable.com" : 1,
+    "youtube.com" : 21,
+    "bloomberglaw.com" : 1,
+    "publicpolicy.google" : 3,
+    "microsoft.com" : 1,
+    "weverse.io" : 1,
+    "spotify.com" : 1,
+    "instagram.com" : 20,
+    "highereddive.com" : 1,
+    "gallup.com" : 1,
+    "tech.co" : 1,
+    "creativecommons.org" : 1,
+    "torproject.org" : 1,
+    "search.google" : 2,
+    "google.dev" : 2,
+    "wsj.com" : 2,
+    "npr.org" : 1,
+    "youtu.be" : 1,
+    "c-span.org" : 1,
+    "iheart.com" : 1,
+    "thesevenstars1602.co.uk" : 1,
+    "messenger.com" : 19,
+    "afterbabel.com" : 1,
+    "ebay.com" : 2,
+    "nytimesineducation.com" : 1,
+    "partnersdirectory.withgoogle.com" : 1,
+    "helenkellerintl.org" : 1,
+    "ny.gov" : 1,
+    "learning.google" : 3,
+    "tiktok.com" : 7,
+    "pinterest.com" : 4,
+    "newyorker.com" : 1,
+    "politico.eu" : 1,
+    "devex.com" : 1,
+    "wrightsmedia.com" : 9,
+    "marist.edu" : 1,
+    "notebooklm.google" : 2,
+    "fubo.tv" : 2,
+    "threads.com" : 18,
+    "inyt.com" : 1,
+    "moj.go.kr" : 1,
+    "ourworldindata.org" : 1,
+    "qu.edu" : 1,
+    "imdb.com" : 1,
+    "writersunion.kr" : 1,
+    "x.com" : 9,
+    "signal.org" : 1,
+    "labs.google" : 3,
+    "koreatimes.co.kr" : 1,
+    "harvardharrispoll.com" : 1,
+    "chromeenterprise.google" : 2,
+    "google.org" : 3,
+    "pixel.google" : 2,
+    "vote.nyc" : 1,
+    "apnews.com" : 1,
+    "khamenei.ir" : 1,
+    "senate.gov" : 1,
+    "wiley.com" : 1,
+    "fb.com" : 1,
+    "penguinrandomhouse.com" : 2,
+    "bsky.app" : 4,
+    "threads.net" : 9,
+    "about.google" : 3,
+    "nytedu.com" : 43,
+    "usda.gov" : 1,
+    "longwarjournal.org" : 1,
+    "defense.gov" : 1,
+    "nytimesgroupsubscriptions.com" : 1,
+    "youtubekids.com" : 2,
+    "impactcounter.com" : 1,
+    "boum.org" : 1,
+    "whitehouse.gov" : 1,
+    "intellinews.com" : 1,
+    "wallet.google" : 2,
+    "cbo.gov" : 1,
+    "wikipedia.org" : 1,
+    "ft.com" : 1,
+    "cornell.edu" : 1,
+    "health.google" : 3,
+    "weather.gov" : 3,
+    "jamanetwork.com" : 1,
+    "gmail.com" : 2,
+    "mastodon.social" : 1,
+    "mozilla.org" : 1,
+    "alligator.org" : 1,
+    "opentable.com" : 1,
+    "pressreader.com" : 44,
+    "apple.com" : 9,
+    "safety.google" : 3,
+    "loc.gov" : 1,
+    "resy.com" : 1,
+    "families.google" : 2,
+    "cdc.gov" : 1,
+    "poweroutage.us" : 1,
+    "grow.google" : 3,
+    "hillel.org" : 1,
+    "militaryonesource.mil" : 1,
+    "politico.com" : 3,
+    "splcenter.org" : 1,
+    "airmedic.net" : 1,
+    "time.com" : 1,
+    "nyt.com" : 1,
+    "nbcnews.com" : 3
+  },
+  "inlinksForHostsFromURLs" : {
+    "lastmilehealth.org" : 1,
+    "ai.google" : 3,
+    "advertising.nytimes.com" : 107,
+    "home.google.com" : 2,
+    "abc.xyz" : 3,
+    "podcasts.apple.com" : 1,
+    "www.android.com" : 2,
+    "t.co" : 1,
+    "www.opentable.com" : 1,
+    "www.threads.com" : 18,
+    "facebook.com" : 3,
+    "shopping.google.com" : 2,
+    "results.org" : 1,
+    "hi-in.facebook.com" : 18,
+    "music.amazon.com" : 1,
+    "transparency.google" : 3,
+    "www.eia.gov" : 1,
+    "scholar.google.com" : 2,
+    "google.com" : 3,
+    "ir.aa.ufl.edu" : 1,
+    "admanager.google.com" : 2,
+    "www.defense.gov" : 1,
+    "subscribe.inyt.com" : 1,
+    "www.highereddive.com" : 1,
+    "sustainability.google" : 3,
+    "archive.nytimes.com" : 1,
+    "reliefweb.int" : 1,
+    "business.google.com" : 1,
+    "l.messenger.com" : 1,
+    "www.politico.eu" : 1,
+    "proimpact.tools" : 1,
+    "crisisresponse.google" : 3,
+    "zh-cn.facebook.com" : 18,
+    "findmypollsite.vote.nyc" : 1,
+    "corporate.walmart.com" : 1,
+    "news.google.com" : 7,
+    "support.microsoft.com" : 1,
+    "www.longwarjournal.org" : 1,
+    "pay.facebook.com" : 1,
+    "www.gmail.com" : 2,
+    "jobs.nytco.com" : 1,
+    "cloud.google.com" : 4,
+    "www.tallahassee.com" : 1,
+    "www.messenger.com" : 1,
+    "8cmbykf0.r.us-east-1.awstrack.me" : 1,
+    "transparencyreport.google.com" : 3,
+    "theharrispoll.com" : 1,
+    "open.spotify.com" : 1,
+    "uselectionatlas.org" : 1,
+    "onlinelibrary.wiley.com" : 1,
+    "maristpoll.marist.edu" : 1,
+    "developer.android.com" : 4,
+    "www.alligator.org" : 1,
+    "pay.google.com" : 2,
+    "www.theatlantic.com" : 2,
+    "publicpolicy.google" : 3,
+    "www.google.org" : 3,
+    "messages.google.com" : 2,
+    "www.splcenter.org" : 1,
+    "www.anxiousgeneration.com" : 1,
+    "help.opera.com" : 1,
+    "www.cdc.gov" : 1,
+    "instagram.com" : 8,
+    "vlab.noaa.gov" : 1,
+    "myaccount.nytimes.com" : 1,
+    "tech.co" : 1,
+    "creativecommons.org" : 1,
+    "www.ebay.com" : 2,
+    "files.google.com" : 2,
+    "pt-br.facebook.com" : 18,
+    "mbasic.facebook.com" : 3,
+    "www.tbrandstudio.com" : 103,
+    "drive.google.com" : 3,
+    "nytimesineducation.com" : 1,
+    "timesmachine.nytimes.com" : 43,
+    "music.youtube.com" : 2,
+    "www.tiktok.com" : 7,
+    "helenkellerintl.org" : 1,
+    "www.politico.com" : 3,
+    "pinterest.com" : 2,
+    "workspace.google.com" : 4,
+    "www.cityandstateny.com" : 1,
+    "www.penguinrandomhouse.com" : 2,
+    "www.wsj.com" : 2,
+    "www.npr.org" : 1,
+    "job-boards.greenhouse.io" : 1,
+    "www.sanders.senate.gov" : 1,
+    "www.thinkwithgoogle.com" : 1,
+    "developers.google.com" : 7,
+    "marketing.nytlicensing.com" : 1,
+    "labs.google" : 3,
+    "mapsplatform.google.com" : 2,
+    "www.legacy.com" : 1,
+    "account.nytimes.com" : 1,
+    "ads.google.com" : 3,
+    "www.guttmacher.org" : 1,
+    "one.google.com" : 2,
+    "www.afcent.af.mil" : 1,
+    "nytedu.com" : 43,
+    "theathletic.zendesk.com" : 2,
+    "adsense.google.com" : 2,
+    "www.weather.gov" : 3,
+    "english.khamenei.ir" : 1,
+    "boards.greenhouse.io" : 1,
+    "www.facebook.com" : 54,
+    "edu.google.com" : 2,
+    "www.impactcounter.com" : 1,
+    "tv.youtube.com" : 4,
+    "www.vote.nyc" : 1,
+    "wallet.google" : 2,
+    "www.linkedin.com" : 2,
+    "mastodon.social" : 1,
+    "www.afterbabel.com" : 1,
+    "www.waze.com" : 2,
+    "www.yahoo.com" : 1,
+    "store.nytimes.com" : 50,
+    "www.meta.ai" : 18,
+    "play.google.com" : 13,
+    "es-la.facebook.com" : 18,
+    "poweroutage.us" : 1,
+    "www.nytco.com" : 112,
+    "firebase.google.com" : 2,
+    "wearos.google.com" : 2,
+    "assistant.google.com" : 2,
+    "www.reuters.com" : 1,
+    "www.blog.google" : 3,
+    "deepmind.google" : 3,
+    "research.google" : 3,
+    "nytlicensing.com" : 45,
+    "tails.boum.org" : 1,
+    "www.census.gov" : 2,
+    "nytco-assets.nytimes.com" : 1,
+    "elections.ny.gov" : 1,
+    "www.dol.gov" : 1,
+    "news.gallup.com" : 1,
+    "www.cbo.gov" : 1,
+    "maps.google.com" : 5,
+    "ar-ar.facebook.com" : 18,
+    "www.google.com" : 13,
+    "info.wrightsmedia.com" : 1,
+    "tv.google" : 2,
+    "www.youtube.com" : 21,
+    "admob.google.com" : 4,
+    "www.ft.com" : 1,
+    "bookshop.org" : 1,
+    "support.signal.org" : 1,
+    "it-it.facebook.com" : 18,
+    "www.ers.usda.gov" : 1,
+    "flutter.dev" : 2,
+    "whatsapp.com" : 1,
+    "www.newyorker.com" : 1,
+    "www.anrdoezrs.net" : 1,
+    "fonts.google.com" : 2,
+    "www.forbes.com" : 1,
+    "blog.google" : 4,
+    "about.fb.com" : 1,
+    "www.pinterest.com" : 2,
+    "www.lemonde.fr" : 1,
+    "www.devex.com" : 1,
+    "www.blogger.com" : 2,
+    "about.meta.com" : 19,
+    "www.kff.org" : 1,
+    "merchants.google.com" : 1,
+    "www.hillel.org" : 1,
+    "www.moj.go.kr" : 1,
+    "www.loc.gov" : 1,
+    "mail.google.com" : 3,
+    "cn.nytimes.com" : 9,
+    "support.google.com" : 21,
+    "built-in.google" : 2,
+    "nytimes.com" : 8,
+    "www.thesevenstars1602.co.uk" : 1,
+    "www.fubo.tv" : 2,
+    "meta.talentnet.community" : 1,
+    "requestballot.vote.nyc" : 1,
+    "newlinesinstitute.org" : 1,
+    "support.apple.com" : 1,
+    "tasks.google.com" : 2,
+    "www.torproject.org" : 1,
+    "www.rogerebert.com" : 1,
+    "lens.google" : 2,
+    "gemini.google.com" : 2,
+    "ropercenter.cornell.edu" : 1,
+    "careers.google.com" : 3,
+    "fr-fr.facebook.com" : 18,
+    "installations.militaryonesource.mil" : 1,
+    "twitter.com" : 17,
+    "www.airmedic.net" : 1,
+    "accounts.google.com" : 16,
+    "www.metacareers.com" : 1,
+    "store.google.com" : 2,
+    "mtouch.facebook.com" : 1,
+    "ai.google.dev" : 2,
+    "apps.apple.com" : 5,
+    "airtable.com" : 1,
+    "www.acc.af.mil" : 1,
+    "www.amazon.com" : 1,
+    "www.instagram.com" : 12,
+    "translate.google.com" : 2,
+    "analytics.google.com" : 1,
+    "www.imdb.com" : 1,
+    "nytimes.wrightsmedia.com" : 8,
+    "www.90daykorean.com" : 1,
+    "weverse.io" : 1,
+    "transparency.fb.com" : 1,
+    "help.nytimes.com" : 122,
+    "poll.qu.edu" : 1,
+    "www.c-span.org" : 1,
+    "policies.google.com" : 9,
+    "jobs.nytimes.com" : 1,
+    "www.state.gov" : 1,
+    "search.google" : 2,
+    "youtu.be" : 1,
+    "messenger.com" : 19,
+    "www.nytimes.com" : 125,
+    "www.whatsapp.com" : 4,
+    "partnersdirectory.withgoogle.com" : 1,
+    "ko-kr.facebook.com" : 18,
+    "developers.facebook.com" : 20,
+    "learning.google" : 3,
+    "casebook.icrc.org" : 1,
+    "goto.applebooks.apple" : 1,
+    "www.koreaherald.com" : 1,
+    "notebooklm.google" : 2,
+    "ourworldindata.org" : 1,
+    "www.nationalbook.org" : 1,
+    "www.whitehouse.gov" : 1,
+    "nytimes.pressreader.com" : 44,
+    "x.com" : 9,
+    "itunes.apple.com" : 2,
+    "signal.org" : 1,
+    "harvardharrispoll.com" : 1,
+    "chromeenterprise.google" : 2,
+    "fi.google.com" : 2,
+    "investor.fb.com" : 1,
+    "pixel.google" : 2,
+    "www.writersunion.kr" : 1,
+    "apnews.com" : 1,
+    "static01.nyt.com" : 1,
+    "l.facebook.com" : 26,
+    "bsky.app" : 4,
+    "english.almayadeen.net" : 1,
+    "cooking.nytimes.com" : 49,
+    "about.google" : 3,
+    "www.tensorflow.org" : 2,
+    "en.wikipedia.org" : 1,
+    "support.mozilla.org" : 1,
+    "nytimesgroupsubscriptions.com" : 1,
+    "marketingplatform.google.com" : 2,
+    "www.documentcloud.org" : 1,
+    "artsandculture.google.com" : 2,
+    "www.youtubekids.com" : 2,
+    "deluzio.house.gov" : 1,
+    "www.meta.com" : 23,
+    "www.nbcnews.com" : 3,
+    "news.bloomberglaw.com" : 1,
+    "health.google" : 3,
+    "www.intellinews.com" : 1,
+    "jamanetwork.com" : 1,
+    "www.iheart.com" : 1,
+    "democrats-energycommerce.house.gov" : 1,
+    "safety.google" : 3,
+    "resy.com" : 1,
+    "families.google" : 2,
+    "grow.google" : 3,
+    "content.time.com" : 1,
+    "www.pbs.org" : 1,
+    "www.gf.org" : 1,
+    "www.oig.dol.gov" : 1,
+    "myaccount.google.com" : 6,
+    "www.cgdev.org" : 1,
+    "de-de.facebook.com" : 18,
+    "www.koreatimes.co.kr" : 1,
+    "www.threads.net" : 9
+  },
+  "inlinksForTopDomainsFromHosts" : {
+    "dol.gov" : {
+      "www.nytimes.com" : 3
+    },
+    "lastmilehealth.org" : {
+      "www.nytimes.com" : 1
+    },
+    "nytco.com" : {
+      "help.nytimes.com" : 5,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 213,
+      "www.nytco.com" : 120,
+      "cooking.nytimes.com" : 2
+    },
+    "census.gov" : {
+      "www.nytimes.com" : 3
+    },
+    "ai.google" : {
+      "www.google.com" : 7
+    },
+    "tensorflow.org" : {
+      "www.google.com" : 2
+    },
+    "deepmind.google" : {
+      "www.google.com" : 3
+    },
+    "research.google" : {
+      "www.google.com" : 3
+    },
+    "abc.xyz" : {
+      "www.google.com" : 3
+    },
+    "nytlicensing.com" : {
+      "help.nytimes.com" : 1,
+      "www.nytimes.com" : 43,
+      "nytlicensing.com" : 128
+    },
+    "meta.com" : {
+      "www.facebook.com" : 48,
+      "zh-cn.facebook.com" : 5,
+      "it-it.facebook.com" : 5,
+      "www.meta.com" : 41,
+      "pt-br.facebook.com" : 5,
+      "es-la.facebook.com" : 5,
+      "ar-ar.facebook.com" : 5,
+      "ko-kr.facebook.com" : 5,
+      "de-de.facebook.com" : 5,
+      "hi-in.facebook.com" : 5,
+      "fr-fr.facebook.com" : 5,
+      "about.meta.com" : 13
+    },
+    "ufl.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "guttmacher.org" : {
+      "www.nytimes.com" : 1
+    },
+    "theatlantic.com" : {
+      "www.nytimes.com" : 2
+    },
+    "koreaherald.com" : {
+      "www.nytimes.com" : 1
+    },
+    "t.co" : {
+      "www.nytimes.com" : 1
+    },
+    "facebook.com" : {
+      "www.facebook.com" : 707,
+      "zh-cn.facebook.com" : 35,
+      "it-it.facebook.com" : 35,
+      "advertising.nytimes.com" : 1,
+      "cooking.nytimes.com" : 2,
+      "pt-br.facebook.com" : 35,
+      "store.nytimes.com" : 1,
+      "es-la.facebook.com" : 35,
+      "messenger.com" : 3,
+      "ar-ar.facebook.com" : 35,
+      "www.nytimes.com" : 26,
+      "www.google.com" : 2,
+      "ko-kr.facebook.com" : 35,
+      "de-de.facebook.com" : 35,
+      "hi-in.facebook.com" : 35,
+      "developers.facebook.com" : 21,
+      "fr-fr.facebook.com" : 35,
+      "about.meta.com" : 12
+    },
+    "amazon.com" : {
+      "www.nytimes.com" : 57
+    },
+    "results.org" : {
+      "www.nytimes.com" : 1
+    },
+    "tv.google" : {
+      "www.google.com" : 2
+    },
+    "yahoo.com" : {
+      "www.nytimes.com" : 1
+    },
+    "kff.org" : {
+      "www.nytimes.com" : 1
+    },
+    "opera.com" : {
+      "help.nytimes.com" : 1
+    },
+    "talentnet.community" : {
+      "www.facebook.com" : 1
+    },
+    "blogger.com" : {
+      "www.google.com" : 2
+    },
+    "transparency.google" : {
+      "www.google.com" : 3
+    },
+    "google.com" : {
+      "news.google.com" : 78,
+      "accounts.google.com" : 12,
+      "help.nytimes.com" : 2,
+      "mail.google.com" : 12,
+      "cn.nytimes.com" : 1,
+      "cooking.nytimes.com" : 2,
+      "play.google.com" : 270,
+      "maps.google.com" : 2,
+      "www.nytimes.com" : 2,
+      "drive.google.com" : 12,
+      "www.google.com" : 560,
+      "www.youtube.com" : 2
+    },
+    "gf.org" : {
+      "www.nytimes.com" : 1
+    },
+    "bookshop.org" : {
+      "www.nytimes.com" : 55
+    },
+    "rogerebert.com" : {
+      "www.nytimes.com" : 1
+    },
+    "anxiousgeneration.com" : {
+      "www.nytimes.com" : 1
+    },
+    "anrdoezrs.net" : {
+      "www.nytimes.com" : 110
+    },
+    "forbes.com" : {
+      "www.nytimes.com" : 1
+    },
+    "state.gov" : {
+      "www.nytimes.com" : 2
+    },
+    "zendesk.com" : {
+      "www.nytimes.com" : 6
+    },
+    "flutter.dev" : {
+      "www.google.com" : 2
+    },
+    "whatsapp.com" : {
+      "www.nytimes.com" : 5
+    },
+    "eia.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "applebooks.apple" : {
+      "www.nytimes.com" : 55
+    },
+    "waze.com" : {
+      "www.google.com" : 2
+    },
+    "documentcloud.org" : {
+      "www.nytimes.com" : 1
+    },
+    "thinkwithgoogle.com" : {
+      "www.google.com" : 1
+    },
+    "sustainability.google" : {
+      "www.google.com" : 6
+    },
+    "icrc.org" : {
+      "www.nytimes.com" : 1
+    },
+    "reliefweb.int" : {
+      "www.nytimes.com" : 1
+    },
+    "blog.google" : {
+      "www.google.com" : 14
+    },
+    "proimpact.tools" : {
+      "www.nytimes.com" : 2
+    },
+    "af.mil" : {
+      "www.nytimes.com" : 2
+    },
+    "crisisresponse.google" : {
+      "www.google.com" : 3
+    },
+    "meta.ai" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "cityandstateny.com" : {
+      "www.nytimes.com" : 1
+    },
+    "noaa.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "cgdev.org" : {
+      "www.nytimes.com" : 1
+    },
+    "nytimes.com" : {
+      "store.nytimes.com" : 114,
+      "help.nytimes.com" : 79,
+      "advertising.nytimes.com" : 50,
+      "www.nytimes.com" : 13036,
+      "cn.nytimes.com" : 129,
+      "www.nytco.com" : 19,
+      "nytimes.pressreader.com" : 4,
+      "nytlicensing.com" : 9,
+      "cooking.nytimes.com" : 988
+    },
+    "built-in.google" : {
+      "www.google.com" : 2
+    },
+    "house.gov" : {
+      "www.nytimes.com" : 2
+    },
+    "tallahassee.com" : {
+      "www.nytimes.com" : 1
+    },
+    "android.com" : {
+      "play.google.com" : 2,
+      "www.google.com" : 24
+    },
+    "reuters.com" : {
+      "www.nytimes.com" : 1
+    },
+    "greenhouse.io" : {
+      "www.nytimes.com" : 1,
+      "www.nytco.com" : 1
+    },
+    "lemonde.fr" : {
+      "www.nytimes.com" : 1
+    },
+    "newlinesinstitute.org" : {
+      "www.nytimes.com" : 1
+    },
+    "walmart.com" : {
+      "www.nytimes.com" : 1
+    },
+    "pbs.org" : {
+      "www.nytimes.com" : 1
+    },
+    "90daykorean.com" : {
+      "www.nytimes.com" : 1
+    },
+    "metacareers.com" : {
+      "www.facebook.com" : 30
+    },
+    "awstrack.me" : {
+      "www.nytimes.com" : 9
+    },
+    "lens.google" : {
+      "www.google.com" : 2
+    },
+    "legacy.com" : {
+      "www.nytimes.com" : 1
+    },
+    "tbrandstudio.com" : {
+      "www.nytimes.com" : 103
+    },
+    "theharrispoll.com" : {
+      "www.nytimes.com" : 1
+    },
+    "twitter.com" : {
+      "www.facebook.com" : 1,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 17,
+      "www.google.com" : 1
+    },
+    "nationalbook.org" : {
+      "www.nytimes.com" : 1
+    },
+    "almayadeen.net" : {
+      "www.nytimes.com" : 1
+    },
+    "uselectionatlas.org" : {
+      "www.nytimes.com" : 1
+    },
+    "linkedin.com" : {
+      "www.facebook.com" : 1,
+      "advertising.nytimes.com" : 1
+    },
+    "airtable.com" : {
+      "www.nytimes.com" : 1
+    },
+    "youtube.com" : {
+      "www.facebook.com" : 1,
+      "www.nytimes.com" : 11,
+      "www.google.com" : 13,
+      "www.youtube.com" : 28,
+      "cooking.nytimes.com" : 2
+    },
+    "bloomberglaw.com" : {
+      "www.nytimes.com" : 1
+    },
+    "publicpolicy.google" : {
+      "www.google.com" : 3
+    },
+    "microsoft.com" : {
+      "help.nytimes.com" : 2
+    },
+    "weverse.io" : {
+      "www.nytimes.com" : 1
+    },
+    "spotify.com" : {
+      "www.nytimes.com" : 2
+    },
+    "instagram.com" : {
+      "www.facebook.com" : 1,
+      "store.nytimes.com" : 1,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 16,
+      "cooking.nytimes.com" : 2
+    },
+    "highereddive.com" : {
+      "www.nytimes.com" : 1
+    },
+    "gallup.com" : {
+      "www.nytimes.com" : 1
+    },
+    "tech.co" : {
+      "www.nytimes.com" : 1
+    },
+    "creativecommons.org" : {
+      "www.nytimes.com" : 1
+    },
+    "torproject.org" : {
+      "www.nytimes.com" : 1
+    },
+    "search.google" : {
+      "www.google.com" : 4
+    },
+    "google.dev" : {
+      "www.google.com" : 2
+    },
+    "wsj.com" : {
+      "www.nytimes.com" : 2
+    },
+    "npr.org" : {
+      "www.nytimes.com" : 1
+    },
+    "youtu.be" : {
+      "www.google.com" : 1
+    },
+    "c-span.org" : {
+      "www.nytimes.com" : 1
+    },
+    "iheart.com" : {
+      "www.nytimes.com" : 2
+    },
+    "thesevenstars1602.co.uk" : {
+      "www.nytimes.com" : 1
+    },
+    "messenger.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "messenger.com" : 46,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "afterbabel.com" : {
+      "www.nytimes.com" : 2
+    },
+    "ebay.com" : {
+      "www.nytimes.com" : 2
+    },
+    "nytimesineducation.com" : {
+      "www.nytimes.com" : 1
+    },
+    "partnersdirectory.withgoogle.com" : {
+      "www.google.com" : 1
+    },
+    "helenkellerintl.org" : {
+      "www.nytimes.com" : 1
+    },
+    "ny.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "learning.google" : {
+      "www.google.com" : 3
+    },
+    "tiktok.com" : {
+      "www.nytimes.com" : 5,
+      "cooking.nytimes.com" : 2
+    },
+    "pinterest.com" : {
+      "www.nytimes.com" : 2,
+      "cooking.nytimes.com" : 2
+    },
+    "newyorker.com" : {
+      "www.nytimes.com" : 1
+    },
+    "politico.eu" : {
+      "www.nytimes.com" : 1
+    },
+    "devex.com" : {
+      "www.nytimes.com" : 1
+    },
+    "wrightsmedia.com" : {
+      "www.nytimes.com" : 9
+    },
+    "marist.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "notebooklm.google" : {
+      "www.google.com" : 2
+    },
+    "fubo.tv" : {
+      "www.nytimes.com" : 2
+    },
+    "threads.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "inyt.com" : {
+      "help.nytimes.com" : 1
+    },
+    "moj.go.kr" : {
+      "www.nytimes.com" : 1
+    },
+    "ourworldindata.org" : {
+      "www.nytimes.com" : 1
+    },
+    "qu.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "imdb.com" : {
+      "www.nytimes.com" : 3
+    },
+    "writersunion.kr" : {
+      "www.nytimes.com" : 1
+    },
+    "x.com" : {
+      "www.nytimes.com" : 12,
+      "www.google.com" : 1
+    },
+    "signal.org" : {
+      "www.nytimes.com" : 3
+    },
+    "labs.google" : {
+      "www.google.com" : 3
+    },
+    "koreatimes.co.kr" : {
+      "www.nytimes.com" : 2
+    },
+    "harvardharrispoll.com" : {
+      "www.nytimes.com" : 1
+    },
+    "chromeenterprise.google" : {
+      "www.google.com" : 2
+    },
+    "google.org" : {
+      "www.google.com" : 3
+    },
+    "pixel.google" : {
+      "www.google.com" : 2
+    },
+    "vote.nyc" : {
+      "www.nytimes.com" : 4
+    },
+    "apnews.com" : {
+      "www.nytimes.com" : 1
+    },
+    "khamenei.ir" : {
+      "www.nytimes.com" : 1
+    },
+    "senate.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "wiley.com" : {
+      "www.nytimes.com" : 1
+    },
+    "fb.com" : {
+      "www.facebook.com" : 3
+    },
+    "penguinrandomhouse.com" : {
+      "www.nytimes.com" : 2
+    },
+    "bsky.app" : {
+      "www.nytimes.com" : 4
+    },
+    "threads.net" : {
+      "www.facebook.com" : 1,
+      "www.nytimes.com" : 8
+    },
+    "about.google" : {
+      "www.google.com" : 34
+    },
+    "nytedu.com" : {
+      "www.nytimes.com" : 86
+    },
+    "usda.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "longwarjournal.org" : {
+      "www.nytimes.com" : 1
+    },
+    "defense.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "nytimesgroupsubscriptions.com" : {
+      "nytlicensing.com" : 2
+    },
+    "youtubekids.com" : {
+      "www.google.com" : 2
+    },
+    "impactcounter.com" : {
+      "www.nytimes.com" : 1
+    },
+    "boum.org" : {
+      "www.nytimes.com" : 1
+    },
+    "whitehouse.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "intellinews.com" : {
+      "www.nytimes.com" : 1
+    },
+    "wallet.google" : {
+      "www.google.com" : 2
+    },
+    "cbo.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "wikipedia.org" : {
+      "www.nytimes.com" : 2
+    },
+    "ft.com" : {
+      "www.nytimes.com" : 1
+    },
+    "cornell.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "health.google" : {
+      "www.google.com" : 3
+    },
+    "weather.gov" : {
+      "www.nytimes.com" : 4
+    },
+    "jamanetwork.com" : {
+      "www.nytimes.com" : 1
+    },
+    "gmail.com" : {
+      "www.google.com" : 2
+    },
+    "mastodon.social" : {
+      "www.nytimes.com" : 1
+    },
+    "mozilla.org" : {
+      "help.nytimes.com" : 1
+    },
+    "alligator.org" : {
+      "www.nytimes.com" : 1
+    },
+    "opentable.com" : {
+      "www.nytimes.com" : 1
+    },
+    "pressreader.com" : {
+      "www.nytimes.com" : 43,
+      "nytimes.pressreader.com" : 8
+    },
+    "apple.com" : {
+      "help.nytimes.com" : 2,
+      "www.nytimes.com" : 5,
+      "www.google.com" : 1,
+      "cn.nytimes.com" : 1,
+      "cooking.nytimes.com" : 2
+    },
+    "safety.google" : {
+      "www.google.com" : 3
+    },
+    "loc.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "resy.com" : {
+      "www.nytimes.com" : 7
+    },
+    "families.google" : {
+      "www.google.com" : 2
+    },
+    "cdc.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "poweroutage.us" : {
+      "www.nytimes.com" : 2
+    },
+    "grow.google" : {
+      "www.google.com" : 3
+    },
+    "hillel.org" : {
+      "www.nytimes.com" : 1
+    },
+    "militaryonesource.mil" : {
+      "www.nytimes.com" : 1
+    },
+    "politico.com" : {
+      "www.nytimes.com" : 4
+    },
+    "splcenter.org" : {
+      "www.nytimes.com" : 1
+    },
+    "airmedic.net" : {
+      "www.nytimes.com" : 1
+    },
+    "time.com" : {
+      "www.nytimes.com" : 1
+    },
+    "nyt.com" : {
+      "www.nytimes.com" : 4
+    },
+    "nbcnews.com" : {
+      "www.nytimes.com" : 3
+    }
+  },
+  "inlinksForHostsFromHosts" : {
+    "lastmilehealth.org" : {
+      "www.nytimes.com" : 1
+    },
+    "ai.google" : {
+      "www.google.com" : 7
+    },
+    "advertising.nytimes.com" : {
+      "help.nytimes.com" : 5,
+      "advertising.nytimes.com" : 47,
+      "www.nytimes.com" : 104
+    },
+    "home.google.com" : {
+      "www.google.com" : 2
+    },
+    "abc.xyz" : {
+      "www.google.com" : 3
+    },
+    "podcasts.apple.com" : {
+      "www.nytimes.com" : 2
+    },
+    "www.android.com" : {
+      "www.google.com" : 20
+    },
+    "t.co" : {
+      "www.nytimes.com" : 1
+    },
+    "www.opentable.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.threads.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "facebook.com" : {
+      "www.nytimes.com" : 3
+    },
+    "shopping.google.com" : {
+      "www.google.com" : 2
+    },
+    "results.org" : {
+      "www.nytimes.com" : 1
+    },
+    "hi-in.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 22,
+      "fr-fr.facebook.com" : 1
+    },
+    "music.amazon.com" : {
+      "www.nytimes.com" : 2
+    },
+    "transparency.google" : {
+      "www.google.com" : 3
+    },
+    "www.eia.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "scholar.google.com" : {
+      "www.google.com" : 2
+    },
+    "google.com" : {
+      "www.google.com" : 6
+    },
+    "ir.aa.ufl.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "admanager.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.defense.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "subscribe.inyt.com" : {
+      "help.nytimes.com" : 1
+    },
+    "www.highereddive.com" : {
+      "www.nytimes.com" : 1
+    },
+    "sustainability.google" : {
+      "www.google.com" : 6
+    },
+    "archive.nytimes.com" : {
+      "www.nytimes.com" : 1
+    },
+    "reliefweb.int" : {
+      "www.nytimes.com" : 1
+    },
+    "business.google.com" : {
+      "www.google.com" : 104
+    },
+    "l.messenger.com" : {
+      "messenger.com" : 2
+    },
+    "www.politico.eu" : {
+      "www.nytimes.com" : 1
+    },
+    "proimpact.tools" : {
+      "www.nytimes.com" : 2
+    },
+    "crisisresponse.google" : {
+      "www.google.com" : 3
+    },
+    "zh-cn.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 22,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "findmypollsite.vote.nyc" : {
+      "www.nytimes.com" : 2
+    },
+    "corporate.walmart.com" : {
+      "www.nytimes.com" : 1
+    },
+    "news.google.com" : {
+      "news.google.com" : 70,
+      "www.google.com" : 5
+    },
+    "support.microsoft.com" : {
+      "help.nytimes.com" : 2
+    },
+    "www.longwarjournal.org" : {
+      "www.nytimes.com" : 1
+    },
+    "pay.facebook.com" : {
+      "about.meta.com" : 1
+    },
+    "www.gmail.com" : {
+      "www.google.com" : 2
+    },
+    "jobs.nytco.com" : {
+      "www.nytimes.com" : 1
+    },
+    "cloud.google.com" : {
+      "www.google.com" : 10
+    },
+    "www.tallahassee.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.messenger.com" : {
+      "messenger.com" : 43
+    },
+    "8cmbykf0.r.us-east-1.awstrack.me" : {
+      "www.nytimes.com" : 9
+    },
+    "transparencyreport.google.com" : {
+      "www.google.com" : 3
+    },
+    "theharrispoll.com" : {
+      "www.nytimes.com" : 1
+    },
+    "open.spotify.com" : {
+      "www.nytimes.com" : 2
+    },
+    "uselectionatlas.org" : {
+      "www.nytimes.com" : 1
+    },
+    "onlinelibrary.wiley.com" : {
+      "www.nytimes.com" : 1
+    },
+    "maristpoll.marist.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "developer.android.com" : {
+      "play.google.com" : 2,
+      "www.google.com" : 4
+    },
+    "www.alligator.org" : {
+      "www.nytimes.com" : 1
+    },
+    "pay.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.theatlantic.com" : {
+      "www.nytimes.com" : 2
+    },
+    "publicpolicy.google" : {
+      "www.google.com" : 3
+    },
+    "www.google.org" : {
+      "www.google.com" : 3
+    },
+    "messages.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.splcenter.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.anxiousgeneration.com" : {
+      "www.nytimes.com" : 1
+    },
+    "help.opera.com" : {
+      "help.nytimes.com" : 1
+    },
+    "www.cdc.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "instagram.com" : {
+      "www.nytimes.com" : 8
+    },
+    "vlab.noaa.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "myaccount.nytimes.com" : {
+      "www.nytimes.com" : 1
+    },
+    "tech.co" : {
+      "www.nytimes.com" : 1
+    },
+    "creativecommons.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.ebay.com" : {
+      "www.nytimes.com" : 2
+    },
+    "files.google.com" : {
+      "www.google.com" : 2
+    },
+    "pt-br.facebook.com" : {
+      "pt-br.facebook.com" : 22,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "mbasic.facebook.com" : {
+      "www.facebook.com" : 3
+    },
+    "www.tbrandstudio.com" : {
+      "www.nytimes.com" : 103
+    },
+    "drive.google.com" : {
+      "www.google.com" : 3
+    },
+    "nytimesineducation.com" : {
+      "www.nytimes.com" : 1
+    },
+    "timesmachine.nytimes.com" : {
+      "www.nytimes.com" : 86
+    },
+    "music.youtube.com" : {
+      "www.google.com" : 2
+    },
+    "www.tiktok.com" : {
+      "www.nytimes.com" : 5,
+      "cooking.nytimes.com" : 2
+    },
+    "helenkellerintl.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.politico.com" : {
+      "www.nytimes.com" : 4
+    },
+    "pinterest.com" : {
+      "www.nytimes.com" : 2
+    },
+    "workspace.google.com" : {
+      "www.google.com" : 18
+    },
+    "www.cityandstateny.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.penguinrandomhouse.com" : {
+      "www.nytimes.com" : 2
+    },
+    "www.wsj.com" : {
+      "www.nytimes.com" : 2
+    },
+    "www.npr.org" : {
+      "www.nytimes.com" : 1
+    },
+    "job-boards.greenhouse.io" : {
+      "www.nytimes.com" : 1
+    },
+    "www.sanders.senate.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "www.thinkwithgoogle.com" : {
+      "www.google.com" : 1
+    },
+    "developers.google.com" : {
+      "www.google.com" : 27,
+      "www.youtube.com" : 2
+    },
+    "marketing.nytlicensing.com" : {
+      "nytlicensing.com" : 2
+    },
+    "labs.google" : {
+      "www.google.com" : 3
+    },
+    "mapsplatform.google.com" : {
+      "www.google.com" : 4
+    },
+    "www.legacy.com" : {
+      "www.nytimes.com" : 1
+    },
+    "account.nytimes.com" : {
+      "nytimes.pressreader.com" : 1
+    },
+    "ads.google.com" : {
+      "www.google.com" : 82
+    },
+    "www.guttmacher.org" : {
+      "www.nytimes.com" : 1
+    },
+    "one.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.afcent.af.mil" : {
+      "www.nytimes.com" : 1
+    },
+    "nytedu.com" : {
+      "www.nytimes.com" : 86
+    },
+    "theathletic.zendesk.com" : {
+      "www.nytimes.com" : 6
+    },
+    "adsense.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.weather.gov" : {
+      "www.nytimes.com" : 4
+    },
+    "english.khamenei.ir" : {
+      "www.nytimes.com" : 1
+    },
+    "boards.greenhouse.io" : {
+      "www.nytco.com" : 1
+    },
+    "www.facebook.com" : {
+      "www.facebook.com" : 575,
+      "zh-cn.facebook.com" : 3,
+      "it-it.facebook.com" : 3,
+      "advertising.nytimes.com" : 1,
+      "cooking.nytimes.com" : 2,
+      "pt-br.facebook.com" : 3,
+      "store.nytimes.com" : 1,
+      "es-la.facebook.com" : 3,
+      "messenger.com" : 2,
+      "ar-ar.facebook.com" : 3,
+      "www.nytimes.com" : 23,
+      "www.google.com" : 2,
+      "ko-kr.facebook.com" : 3,
+      "de-de.facebook.com" : 3,
+      "hi-in.facebook.com" : 3,
+      "fr-fr.facebook.com" : 3,
+      "about.meta.com" : 7
+    },
+    "edu.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.impactcounter.com" : {
+      "www.nytimes.com" : 1
+    },
+    "tv.youtube.com" : {
+      "www.google.com" : 2,
+      "www.youtube.com" : 2
+    },
+    "www.vote.nyc" : {
+      "www.nytimes.com" : 1
+    },
+    "wallet.google" : {
+      "www.google.com" : 2
+    },
+    "www.linkedin.com" : {
+      "www.facebook.com" : 1,
+      "advertising.nytimes.com" : 1
+    },
+    "mastodon.social" : {
+      "www.nytimes.com" : 1
+    },
+    "www.afterbabel.com" : {
+      "www.nytimes.com" : 2
+    },
+    "www.waze.com" : {
+      "www.google.com" : 2
+    },
+    "www.yahoo.com" : {
+      "www.nytimes.com" : 1
+    },
+    "store.nytimes.com" : {
+      "store.nytimes.com" : 114,
+      "www.nytimes.com" : 47,
+      "cooking.nytimes.com" : 2
+    },
+    "www.meta.ai" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "play.google.com" : {
+      "play.google.com" : 256,
+      "www.nytimes.com" : 2,
+      "www.google.com" : 18,
+      "cn.nytimes.com" : 1,
+      "cooking.nytimes.com" : 2
+    },
+    "es-la.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 22,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "poweroutage.us" : {
+      "www.nytimes.com" : 2
+    },
+    "www.nytco.com" : {
+      "help.nytimes.com" : 5,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 212,
+      "www.nytco.com" : 120,
+      "cooking.nytimes.com" : 2
+    },
+    "firebase.google.com" : {
+      "www.google.com" : 2
+    },
+    "wearos.google.com" : {
+      "www.google.com" : 4
+    },
+    "assistant.google.com" : {
+      "www.google.com" : 4
+    },
+    "www.reuters.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.blog.google" : {
+      "www.google.com" : 6
+    },
+    "deepmind.google" : {
+      "www.google.com" : 3
+    },
+    "research.google" : {
+      "www.google.com" : 3
+    },
+    "nytlicensing.com" : {
+      "help.nytimes.com" : 1,
+      "www.nytimes.com" : 43,
+      "nytlicensing.com" : 126
+    },
+    "tails.boum.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.census.gov" : {
+      "www.nytimes.com" : 3
+    },
+    "nytco-assets.nytimes.com" : {
+      "www.nytco.com" : 1
+    },
+    "elections.ny.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "www.dol.gov" : {
+      "www.nytimes.com" : 2
+    },
+    "news.gallup.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.cbo.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "maps.google.com" : {
+      "www.google.com" : 5
+    },
+    "ar-ar.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 22,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "www.google.com" : {
+      "news.google.com" : 2,
+      "www.google.com" : 119
+    },
+    "info.wrightsmedia.com" : {
+      "www.nytimes.com" : 1
+    },
+    "tv.google" : {
+      "www.google.com" : 2
+    },
+    "www.youtube.com" : {
+      "www.facebook.com" : 1,
+      "www.nytimes.com" : 11,
+      "www.google.com" : 9,
+      "www.youtube.com" : 26,
+      "cooking.nytimes.com" : 2
+    },
+    "admob.google.com" : {
+      "www.google.com" : 4
+    },
+    "www.ft.com" : {
+      "www.nytimes.com" : 1
+    },
+    "bookshop.org" : {
+      "www.nytimes.com" : 55
+    },
+    "support.signal.org" : {
+      "www.nytimes.com" : 2
+    },
+    "it-it.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 22,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "www.ers.usda.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "flutter.dev" : {
+      "www.google.com" : 2
+    },
+    "whatsapp.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.newyorker.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.anrdoezrs.net" : {
+      "www.nytimes.com" : 110
+    },
+    "fonts.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.forbes.com" : {
+      "www.nytimes.com" : 1
+    },
+    "blog.google" : {
+      "www.google.com" : 8
+    },
+    "about.fb.com" : {
+      "www.facebook.com" : 1
+    },
+    "www.pinterest.com" : {
+      "cooking.nytimes.com" : 2
+    },
+    "www.lemonde.fr" : {
+      "www.nytimes.com" : 1
+    },
+    "www.devex.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.blogger.com" : {
+      "www.google.com" : 2
+    },
+    "about.meta.com" : {
+      "pt-br.facebook.com" : 2,
+      "www.facebook.com" : 21,
+      "zh-cn.facebook.com" : 2,
+      "es-la.facebook.com" : 2,
+      "it-it.facebook.com" : 2,
+      "ar-ar.facebook.com" : 2,
+      "ko-kr.facebook.com" : 2,
+      "de-de.facebook.com" : 2,
+      "hi-in.facebook.com" : 2,
+      "fr-fr.facebook.com" : 2
+    },
+    "www.kff.org" : {
+      "www.nytimes.com" : 1
+    },
+    "merchants.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.hillel.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.moj.go.kr" : {
+      "www.nytimes.com" : 1
+    },
+    "www.loc.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "mail.google.com" : {
+      "www.google.com" : 3
+    },
+    "cn.nytimes.com" : {
+      "www.nytimes.com" : 16,
+      "cn.nytimes.com" : 124
+    },
+    "support.google.com" : {
+      "play.google.com" : 8,
+      "news.google.com" : 2,
+      "accounts.google.com" : 4,
+      "help.nytimes.com" : 2,
+      "maps.google.com" : 2,
+      "mail.google.com" : 4,
+      "drive.google.com" : 4,
+      "www.google.com" : 32
+    },
+    "built-in.google" : {
+      "www.google.com" : 2
+    },
+    "nytimes.com" : {
+      "help.nytimes.com" : 3,
+      "www.nytimes.com" : 5
+    },
+    "www.thesevenstars1602.co.uk" : {
+      "www.nytimes.com" : 1
+    },
+    "www.fubo.tv" : {
+      "www.nytimes.com" : 2
+    },
+    "meta.talentnet.community" : {
+      "www.facebook.com" : 1
+    },
+    "requestballot.vote.nyc" : {
+      "www.nytimes.com" : 1
+    },
+    "newlinesinstitute.org" : {
+      "www.nytimes.com" : 1
+    },
+    "support.apple.com" : {
+      "help.nytimes.com" : 2
+    },
+    "tasks.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.torproject.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.rogerebert.com" : {
+      "www.nytimes.com" : 1
+    },
+    "lens.google" : {
+      "www.google.com" : 2
+    },
+    "gemini.google.com" : {
+      "www.google.com" : 4
+    },
+    "ropercenter.cornell.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "careers.google.com" : {
+      "www.google.com" : 3
+    },
+    "fr-fr.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 22
+    },
+    "installations.militaryonesource.mil" : {
+      "www.nytimes.com" : 1
+    },
+    "twitter.com" : {
+      "www.facebook.com" : 1,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 17,
+      "www.google.com" : 1
+    },
+    "www.airmedic.net" : {
+      "www.nytimes.com" : 1
+    },
+    "accounts.google.com" : {
+      "news.google.com" : 4,
+      "accounts.google.com" : 8,
+      "mail.google.com" : 8,
+      "www.google.com" : 20,
+      "drive.google.com" : 8
+    },
+    "www.metacareers.com" : {
+      "www.facebook.com" : 30
+    },
+    "store.google.com" : {
+      "www.google.com" : 18
+    },
+    "mtouch.facebook.com" : {
+      "www.facebook.com" : 1
+    },
+    "ai.google.dev" : {
+      "www.google.com" : 2
+    },
+    "apps.apple.com" : {
+      "www.nytimes.com" : 2,
+      "www.google.com" : 1,
+      "cooking.nytimes.com" : 2
+    },
+    "airtable.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.acc.af.mil" : {
+      "www.nytimes.com" : 1
+    },
+    "www.amazon.com" : {
+      "www.nytimes.com" : 55
+    },
+    "www.instagram.com" : {
+      "www.facebook.com" : 1,
+      "store.nytimes.com" : 1,
+      "advertising.nytimes.com" : 1,
+      "www.nytimes.com" : 8,
+      "cooking.nytimes.com" : 2
+    },
+    "translate.google.com" : {
+      "www.google.com" : 2
+    },
+    "analytics.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.imdb.com" : {
+      "www.nytimes.com" : 3
+    },
+    "nytimes.wrightsmedia.com" : {
+      "www.nytimes.com" : 8
+    },
+    "www.90daykorean.com" : {
+      "www.nytimes.com" : 1
+    },
+    "weverse.io" : {
+      "www.nytimes.com" : 1
+    },
+    "transparency.fb.com" : {
+      "www.facebook.com" : 1
+    },
+    "help.nytimes.com" : {
+      "help.nytimes.com" : 42,
+      "www.nytimes.com" : 775,
+      "cn.nytimes.com" : 2,
+      "www.nytco.com" : 4,
+      "nytlicensing.com" : 5,
+      "cooking.nytimes.com" : 6
+    },
+    "poll.qu.edu" : {
+      "www.nytimes.com" : 1
+    },
+    "www.c-span.org" : {
+      "www.nytimes.com" : 1
+    },
+    "policies.google.com" : {
+      "play.google.com" : 4,
+      "www.google.com" : 16
+    },
+    "jobs.nytimes.com" : {
+      "www.nytimes.com" : 4
+    },
+    "www.state.gov" : {
+      "www.nytimes.com" : 2
+    },
+    "search.google" : {
+      "www.google.com" : 4
+    },
+    "youtu.be" : {
+      "www.google.com" : 1
+    },
+    "messenger.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "messenger.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "www.nytimes.com" : {
+      "help.nytimes.com" : 29,
+      "advertising.nytimes.com" : 3,
+      "www.nytimes.com" : 11899,
+      "cn.nytimes.com" : 3,
+      "www.nytco.com" : 14,
+      "nytimes.pressreader.com" : 3,
+      "nytlicensing.com" : 4,
+      "cooking.nytimes.com" : 12
+    },
+    "www.whatsapp.com" : {
+      "www.nytimes.com" : 4
+    },
+    "partnersdirectory.withgoogle.com" : {
+      "www.google.com" : 1
+    },
+    "ko-kr.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 22,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "developers.facebook.com" : {
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "pt-br.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "messenger.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "developers.facebook.com" : 21,
+      "fr-fr.facebook.com" : 1
+    },
+    "learning.google" : {
+      "www.google.com" : 3
+    },
+    "casebook.icrc.org" : {
+      "www.nytimes.com" : 1
+    },
+    "goto.applebooks.apple" : {
+      "www.nytimes.com" : 55
+    },
+    "www.koreaherald.com" : {
+      "www.nytimes.com" : 1
+    },
+    "notebooklm.google" : {
+      "www.google.com" : 2
+    },
+    "ourworldindata.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.nationalbook.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.whitehouse.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "nytimes.pressreader.com" : {
+      "www.nytimes.com" : 43,
+      "nytimes.pressreader.com" : 8
+    },
+    "x.com" : {
+      "www.nytimes.com" : 12,
+      "www.google.com" : 1
+    },
+    "itunes.apple.com" : {
+      "www.nytimes.com" : 1,
+      "cn.nytimes.com" : 1
+    },
+    "signal.org" : {
+      "www.nytimes.com" : 1
+    },
+    "harvardharrispoll.com" : {
+      "www.nytimes.com" : 1
+    },
+    "chromeenterprise.google" : {
+      "www.google.com" : 2
+    },
+    "fi.google.com" : {
+      "www.google.com" : 2
+    },
+    "investor.fb.com" : {
+      "www.facebook.com" : 1
+    },
+    "pixel.google" : {
+      "www.google.com" : 2
+    },
+    "www.writersunion.kr" : {
+      "www.nytimes.com" : 1
+    },
+    "apnews.com" : {
+      "www.nytimes.com" : 1
+    },
+    "static01.nyt.com" : {
+      "www.nytimes.com" : 4
+    },
+    "l.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 38,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 1,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1,
+      "about.meta.com" : 4
+    },
+    "bsky.app" : {
+      "www.nytimes.com" : 4
+    },
+    "english.almayadeen.net" : {
+      "www.nytimes.com" : 1
+    },
+    "cooking.nytimes.com" : {
+      "www.nytimes.com" : 98,
+      "cooking.nytimes.com" : 968
+    },
+    "about.google" : {
+      "www.google.com" : 34
+    },
+    "www.tensorflow.org" : {
+      "www.google.com" : 2
+    },
+    "en.wikipedia.org" : {
+      "www.nytimes.com" : 2
+    },
+    "support.mozilla.org" : {
+      "help.nytimes.com" : 1
+    },
+    "nytimesgroupsubscriptions.com" : {
+      "nytlicensing.com" : 2
+    },
+    "marketingplatform.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.documentcloud.org" : {
+      "www.nytimes.com" : 1
+    },
+    "artsandculture.google.com" : {
+      "www.google.com" : 2
+    },
+    "www.youtubekids.com" : {
+      "www.google.com" : 2
+    },
+    "deluzio.house.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "www.meta.com" : {
+      "www.facebook.com" : 27,
+      "zh-cn.facebook.com" : 3,
+      "it-it.facebook.com" : 3,
+      "www.meta.com" : 41,
+      "pt-br.facebook.com" : 3,
+      "es-la.facebook.com" : 3,
+      "ar-ar.facebook.com" : 3,
+      "ko-kr.facebook.com" : 3,
+      "de-de.facebook.com" : 3,
+      "hi-in.facebook.com" : 3,
+      "fr-fr.facebook.com" : 3,
+      "about.meta.com" : 13
+    },
+    "www.nbcnews.com" : {
+      "www.nytimes.com" : 3
+    },
+    "news.bloomberglaw.com" : {
+      "www.nytimes.com" : 1
+    },
+    "health.google" : {
+      "www.google.com" : 3
+    },
+    "www.intellinews.com" : {
+      "www.nytimes.com" : 1
+    },
+    "jamanetwork.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.iheart.com" : {
+      "www.nytimes.com" : 2
+    },
+    "democrats-energycommerce.house.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "safety.google" : {
+      "www.google.com" : 3
+    },
+    "resy.com" : {
+      "www.nytimes.com" : 7
+    },
+    "families.google" : {
+      "www.google.com" : 2
+    },
+    "grow.google" : {
+      "www.google.com" : 3
+    },
+    "content.time.com" : {
+      "www.nytimes.com" : 1
+    },
+    "www.pbs.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.gf.org" : {
+      "www.nytimes.com" : 1
+    },
+    "www.oig.dol.gov" : {
+      "www.nytimes.com" : 1
+    },
+    "myaccount.google.com" : {
+      "play.google.com" : 2,
+      "www.google.com" : 10
+    },
+    "www.cgdev.org" : {
+      "www.nytimes.com" : 1
+    },
+    "de-de.facebook.com" : {
+      "pt-br.facebook.com" : 1,
+      "www.facebook.com" : 9,
+      "zh-cn.facebook.com" : 1,
+      "es-la.facebook.com" : 1,
+      "it-it.facebook.com" : 1,
+      "ar-ar.facebook.com" : 1,
+      "ko-kr.facebook.com" : 1,
+      "de-de.facebook.com" : 22,
+      "hi-in.facebook.com" : 1,
+      "fr-fr.facebook.com" : 1
+    },
+    "www.koreatimes.co.kr" : {
+      "www.nytimes.com" : 2
+    },
+    "www.threads.net" : {
+      "www.facebook.com" : 1,
+      "www.nytimes.com" : 8
+    }
+  },
+  "outlinksForDomain" : {
+    "pressreader.com" : [ "pressreader.com", "nytimes.com" ],
+    "google.com" : [ "google.org", "pixel.google", "ai.google", "tensorflow.org", "deepmind.google", "built-in.google", "research.google", "abc.xyz", "android.com", "search.google", "google.dev", "about.google", "youtu.be", "facebook.com", "tv.google", "lens.google", "partnersdirectory.withgoogle.com", "youtubekids.com", "blogger.com", "learning.google", "transparency.google", "twitter.com", "google.com", "wallet.google", "health.google", "gmail.com", "notebooklm.google", "youtube.com", "flutter.dev", "apple.com", "safety.google", "families.google", "waze.com", "grow.google", "sustainability.google", "thinkwithgoogle.com", "blog.google", "publicpolicy.google", "x.com", "labs.google", "crisisresponse.google", "chromeenterprise.google" ],
+    "nytco.com" : [ "greenhouse.io", "nytco.com", "nytimes.com" ],
+    "messenger.com" : [ "messenger.com", "facebook.com" ],
+    "facebook.com" : [ "meta.ai", "twitter.com", "instagram.com", "fb.com", "threads.net", "meta.com", "linkedin.com", "threads.com", "youtube.com", "messenger.com", "facebook.com", "metacareers.com", "talentnet.community" ],
+    "nytimes.com" : [ "dol.gov", "lastmilehealth.org", "census.gov", "nytco.com", "nytlicensing.com", "ufl.edu", "guttmacher.org", "theatlantic.com", "koreaherald.com", "t.co", "facebook.com", "amazon.com", "results.org", "yahoo.com", "kff.org", "opera.com", "google.com", "gf.org", "bookshop.org", "rogerebert.com", "anxiousgeneration.com", "anrdoezrs.net", "forbes.com", "state.gov", "zendesk.com", "whatsapp.com", "eia.gov", "applebooks.apple", "documentcloud.org", "icrc.org", "reliefweb.int", "proimpact.tools", "af.mil", "cityandstateny.com", "noaa.gov", "cgdev.org", "nytimes.com", "house.gov", "tallahassee.com", "reuters.com", "greenhouse.io", "lemonde.fr", "newlinesinstitute.org", "walmart.com", "pbs.org", "90daykorean.com", "awstrack.me", "legacy.com", "tbrandstudio.com", "theharrispoll.com", "twitter.com", "nationalbook.org", "almayadeen.net", "uselectionatlas.org", "airtable.com", "linkedin.com", "youtube.com", "bloomberglaw.com", "microsoft.com", "weverse.io", "spotify.com", "instagram.com", "highereddive.com", "gallup.com", "tech.co", "torproject.org", "creativecommons.org", "wsj.com", "npr.org", "c-span.org", "iheart.com", "thesevenstars1602.co.uk", "afterbabel.com", "ebay.com", "nytimesineducation.com", "helenkellerintl.org", "ny.gov", "tiktok.com", "pinterest.com", "newyorker.com", "politico.eu", "devex.com", "wrightsmedia.com", "marist.edu", "fubo.tv", "inyt.com", "moj.go.kr", "ourworldindata.org", "qu.edu", "imdb.com", "writersunion.kr", "x.com", "signal.org", "koreatimes.co.kr", "harvardharrispoll.com", "vote.nyc", "apnews.com", "khamenei.ir", "senate.gov", "wiley.com", "penguinrandomhouse.com", "bsky.app", "threads.net", "nytedu.com", "usda.gov", "longwarjournal.org", "defense.gov", "impactcounter.com", "boum.org", "whitehouse.gov", "intellinews.com", "cbo.gov", "wikipedia.org", "ft.com", "cornell.edu", "weather.gov", "jamanetwork.com", "mastodon.social", "mozilla.org", "alligator.org", "opentable.com", "pressreader.com", "apple.com", "loc.gov", "resy.com", "cdc.gov", "poweroutage.us", "hillel.org", "militaryonesource.mil", "politico.com", "splcenter.org", "airmedic.net", "time.com", "nyt.com", "nbcnews.com" ],
+    "meta.com" : [ "facebook.com", "meta.com" ],
+    "nytlicensing.com" : [ "nytimes.com", "nytimesgroupsubscriptions.com", "nytlicensing.com" ],
+    "youtube.com" : [ "google.com", "youtube.com" ]
+  }
 }
