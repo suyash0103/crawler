@@ -83,12 +83,11 @@ public class Main {
             logger.error("Error while verifying state: ", e);
         }
 
-        int numThreads = 3;
-        ExecutorService executor = Executors.newFixedThreadPool(numThreads);
+        ExecutorService executor = Executors.newFixedThreadPool(Constants.NUM_THREADS);
         List<Future<?>> futures = new ArrayList<>();
 
         try {
-            for (int i = 0; i < numThreads; i++) {
+            for (int i = 0; i < Constants.NUM_THREADS; i++) {
                 futures.add(executor.submit(new CrawlWorker(state, maxPagesToCrawl)));
             }
         } catch (Exception e) {

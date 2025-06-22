@@ -187,8 +187,5 @@ public class Crawler {
 }
 
 /* Limitation:
-* 1. We won't know the inCount of base URLs.
-* 2. We have limitation on url like google.com and google.org separately.
-* 3. If program runs successfully and state is saved, and if we again start program to resume from saved state,
-* it will not run as max pages are already crawled as per state data
+
 */

@@ -4,6 +4,8 @@ import java.util.List;
 
 public class Constants {
 
+    // TLDs of malicious URLs. False positives are possible. These TLDs have the most % of malicious URLs.
+    // https://www.cybercrimeinfocenter.org/top-20-tlds-by-malicious-phishing-domains
     public static final List<String> MALICIOUS_TLD = List.of(
             "host",
             "live",
@@ -26,4 +28,6 @@ public class Constants {
     public static final long POLITENESS_THRESHOLD = 60 * 1000L; // 60 seconds
 
     public static final long WAIT_TIME_THRESHOLD = 10 * 1000L; // 10 seconds
+
+    public static final int NUM_THREADS = 3;
 }
